@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomizeReqPermissionDialog</string>
+    <string name="location_permission_txt"> This app needs to access your accurate location inorder to the smooth working of the app </string>
+</resources>
